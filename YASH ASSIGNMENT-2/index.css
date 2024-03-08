@@ -1,0 +1,1356 @@
+.navigation-links {
+    position: absolute;
+    top: 6634px;
+    left: 0;
+    border-radius: 0 var(--br-11xl) var(--br-11xl) 0;
+    background-color: var(--color-ghostwhite);
+    width: 974px;
+    height: 660px;
+  }
+  .jammessages-alt-icon,
+  .uilarrow-growth-icon {
+    position: absolute;
+    top: 7246px;
+    left: 104px;
+    width: 67px;
+    height: 67px;
+    overflow: hidden;
+  }
+  .jammessages-alt-icon {
+    top: 7118px;
+  }
+  .fluentlive-24-regular-icon,
+  .fluentpeople-community-28-fil-icon,
+  .teenyiconsbulb-on-outline {
+    position: absolute;
+    top: 6991px;
+    left: 104px;
+    width: 67px;
+    height: 67px;
+    overflow: hidden;
+  }
+  .fluentlive-24-regular-icon,
+  .fluentpeople-community-28-fil-icon {
+    top: 6863px;
+  }
+  .fluentpeople-community-28-fil-icon {
+    top: 6734px;
+  }
+  .get-inspired-by,
+  .who-is-now {
+    margin: 0;
+    position: absolute;
+    top: 52px;
+    left: 361px;
+    font-size: 65px;
+    font-weight: 400;
+    font-family: inherit;
+  }
+  .who-is-now {
+    top: 155px;
+    left: 408px;
+    font-size: 37px;
+  }
+  .immersive-learning {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-royalblue);
+    box-sizing: border-box;
+    width: 515px;
+    height: 78px;
+  }
+  .read-more-reviews {
+    position: absolute;
+    top: 19px;
+    left: 71px;
+    font-size: var(--font-size-15xl-3);
+    text-transform: capitalize;
+    font-weight: 600;
+    font-family: var(--font-inter);
+    color: var(--color-royalblue);
+    text-align: left;
+    display: inline-block;
+    width: 386px;
+    height: 39px;
+  }
+  .read-more {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    top: 1297px;
+    left: 612px;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 515px;
+    height: 78px;
+  }
+  .logo-container,
+  .scrolling-circles-icon {
+    position: absolute;
+    top: 1231px;
+    left: 815px;
+    width: 108px;
+    height: 21px;
+  }
+  .logo-container {
+    top: 0;
+    left: 0;
+    border-radius: 19.48px;
+    background-color: var(--color-white);
+    border: 1px solid var(--color-royalblue);
+    box-sizing: border-box;
+    width: 609px;
+    height: 821px;
+  }
+  .a {
+    text-transform: uppercase;
+  }
+  .khil {
+    text-transform: lowercase;
+  }
+  .reddy {
+    text-transform: capitalize;
+  }
+  .akhil-reddy1 {
+    position: absolute;
+    top: 76px;
+    left: 278px;
+    font-size: 40.3px;
+  }
+  .read-more1,
+  .software-engenieer-at {
+    position: absolute;
+    display: inline-block;
+  }
+  .software-engenieer-at {
+    top: 126px;
+    left: 278px;
+    text-transform: capitalize;
+    width: 288px;
+  }
+  .read-more1 {
+    top: 762px;
+    left: 436px;
+    width: 130px;
+    opacity: 0.8;
+  }
+  .osscoder-acadmey-made,
+  .read-more1 {
+    text-transform: lowercase;
+  }
+  .bosscoder-acadmey-made-me-a-co {
+    margin: 0;
+  }
+  .i-was-working {
+    margin: 0;
+    white-space: pre-wrap;
+  }
+  .blank-line,
+  .p {
+    margin: 0;
+  }
+  .p {
+    text-transform: capitalize;
+  }
+  .bosscoder-acadmey-made-container {
+    position: absolute;
+    top: 306px;
+    left: 63px;
+    font-size: 35.9px;
+    display: inline-block;
+    width: 482.7px;
+  }
+  .dropdown-menu-icon {
+    position: absolute;
+    top: 38px;
+    left: 38px;
+    border-radius: 50%;
+    width: 182px;
+    height: 182px;
+    object-fit: cover;
+  }
+  .div,
+  .div1 {
+    position: absolute;
+    top: 258px;
+    left: 22px;
+    font-size: var(--font-size-52xl-9);
+    text-transform: lowercase;
+    color: var(--color-royalblue);
+  }
+  .div1 {
+    top: 690px;
+    left: 525px;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+  }
+  .akhil-reddy {
+    position: absolute;
+    top: 299px;
+    left: 567px;
+    box-shadow: 0 4px 50px rgba(0, 0, 0, 0.25);
+    width: 609px;
+    height: 821px;
+  }
+  .card-group {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 19.48px;
+    background-color: var(--color-white);
+    border: 1px solid var(--color-royalblue);
+    box-sizing: border-box;
+    width: 496px;
+    height: 669px;
+  }
+  .amet-minim-mollit {
+    position: absolute;
+    top: 282px;
+    left: 75px;
+    font-size: var(--font-size-7xl-9);
+    display: inline-block;
+    width: 345px;
+    height: 172px;
+  }
+  .r {
+    text-transform: uppercase;
+  }
+  .rakesh-kumar {
+    position: absolute;
+    top: 61.9px;
+    left: 226.4px;
+    font-size: var(--font-size-10xl-4);
+  }
+  .software-engenieer-at1 {
+    position: absolute;
+    top: 102.7px;
+    left: 226.4px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 234.6px;
+    height: 44px;
+  }
+  .read-more2 {
+    position: absolute;
+    top: 620.9px;
+    left: 355.1px;
+    text-transform: lowercase;
+    opacity: 0.8;
+  }
+  .rectangle-shape-icon {
+    position: absolute;
+    top: 31px;
+    left: 29.3px;
+    border-radius: 50%;
+    width: 148.2px;
+    height: 148.3px;
+    object-fit: cover;
+  }
+  .div2,
+  .div3 {
+    position: absolute;
+    top: 230px;
+    left: 29px;
+    font-size: var(--font-size-52xl-9);
+    text-transform: lowercase;
+    color: var(--color-royalblue);
+    display: inline-block;
+    width: 28px;
+    height: 70.9px;
+  }
+  .div3 {
+    top: 493.9px;
+    left: 437px;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+  }
+  .akhil-reddy2 {
+    top: 0;
+    left: 0;
+  }
+  .akhil-reddy-child,
+  .akhil-reddy2,
+  .rakesh {
+    position: absolute;
+    width: 496px;
+    height: 669px;
+  }
+  .rakesh {
+    top: 375px;
+    left: 1239px;
+    filter: drop-shadow(0 1px 4px rgba(0, 0, 0, 0.25));
+  }
+  .akhil-reddy-child {
+    top: 0;
+    left: 0;
+    border-radius: 19.48px;
+    background-color: var(--color-white);
+    border: 1px solid var(--color-royalblue);
+    box-sizing: border-box;
+  }
+  .amet-minim-mollit1 {
+    position: absolute;
+    top: 230px;
+    left: 74px;
+    font-size: var(--font-size-7xl-9);
+    display: inline-block;
+    width: 345px;
+    height: 172px;
+  }
+  .mannu,
+  .uiux-designer {
+    position: absolute;
+    left: 226.4px;
+    text-transform: capitalize;
+  }
+  .mannu {
+    top: 61.9px;
+    font-size: var(--font-size-10xl-4);
+  }
+  .uiux-designer {
+    top: 102.7px;
+    display: inline-block;
+    width: 234.6px;
+    height: 44px;
+  }
+  .watch-more-on {
+    text-transform: lowercase;
+  }
+  .span {
+    text-transform: capitalize;
+  }
+  .watch-more-on-container {
+    position: absolute;
+    top: 616px;
+    left: 145px;
+    display: inline-block;
+    width: 234.6px;
+    height: 44px;
+  }
+  .akhil-reddy-item {
+    position: absolute;
+    top: 31px;
+    left: 30.3px;
+    border-radius: 50%;
+    width: 148.2px;
+    height: 148.3px;
+    object-fit: cover;
+  }
+  .div4,
+  .div5 {
+    position: absolute;
+    top: 203px;
+    left: 29px;
+    font-size: var(--font-size-52xl-9);
+    text-transform: lowercase;
+    color: var(--color-royalblue);
+    display: inline-block;
+    width: 28px;
+    height: 70.9px;
+  }
+  .div5 {
+    top: 423.9px;
+    left: 432px;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+  }
+  .akhil-reddy3,
+  .rohit {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 496px;
+    height: 669px;
+  }
+  .rohit {
+    top: 375px;
+    left: 7px;
+    filter: drop-shadow(0 1px 4px rgba(0, 0, 0, 0.25));
+  }
+  .main-heading-icon {
+    position: absolute;
+    top: 799px;
+    left: 105px;
+    width: 297px;
+    height: 169.9px;
+    object-fit: cover;
+  }
+  .top-button-icon {
+    position: absolute;
+    top: 1294px;
+    left: 1577px;
+    width: 109px;
+    height: 109px;
+    cursor: pointer;
+  }
+  .left-arrow-icon,
+  .right-arrow-icon {
+    position: absolute;
+    top: 640px;
+    left: -59px;
+    width: 131.4px;
+    height: 131.4px;
+  }
+  .right-arrow-icon {
+    left: 1665px;
+  }
+  .logosyoutube-icon {
+    position: absolute;
+    top: 1014px;
+    left: 325px;
+    width: 69px;
+    height: 15px;
+    overflow: hidden;
+  }
+  .search-box {
+    position: absolute;
+    top: 4680px;
+    left: -7px;
+    background-color: rgba(176, 209, 254, 0.13);
+    width: 1738px;
+    height: 1439px;
+    text-align: left;
+    font-size: var(--font-size-3xl-4);
+    color: var(--color-black);
+    font-family: var(--font-inter);
+  }
+  .button {
+    position: absolute;
+    top: 79px;
+    left: 929px;
+    border-radius: 50%;
+    background-color: rgba(217, 217, 217, 0.4);
+    width: 891px;
+    height: 874px;
+  }
+  .docusign-xo3fdxgtjp8-unsplash-icon {
+    position: absolute;
+    top: 107px;
+    left: 713px;
+    width: 1279px;
+    height: 908px;
+    object-fit: cover;
+  }
+  .dream {
+    color: var(--color-black);
+  }
+  .grab-your-dream-container {
+    margin: 0;
+    position: absolute;
+    top: 162px;
+    left: 102px;
+    font-size: 71px;
+    font-weight: 600;
+    font-family: inherit;
+    display: inline-block;
+    width: 804px;
+  }
+  .a-highly-structured-personali {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: var(--padding-24xl);
+  }
+  .a-highly-structured-container {
+    position: absolute;
+    top: 380px;
+    left: 83px;
+    font-weight: 600;
+    display: inline-block;
+    width: 804px;
+  }
+  .designed-by-industry-expertst {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: var(--padding-24xl);
+  }
+  .designed-by-industry-container {
+    position: absolute;
+    top: 487px;
+    left: 83px;
+    font-weight: 600;
+    display: inline-block;
+    width: 630px;
+  }
+  .for-ambition-learners-who-don {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: var(--padding-24xl);
+  }
+  .for-ambition-learners-container {
+    position: absolute;
+    top: 648px;
+    left: 83px;
+    font-weight: 600;
+    display: inline-block;
+    width: 693px;
+  }
+  .that-will-make-you-the-best-so {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: var(--padding-24xl);
+  }
+  .that-will-make-container {
+    position: absolute;
+    top: 541px;
+    left: 83px;
+    font-weight: 600;
+    display: inline-block;
+    width: 823px;
+  }
+  .group {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px dashed var(--color-white);
+    box-sizing: border-box;
+    width: 207px;
+    height: 62px;
+  }
+  .apply-now {
+    position: absolute;
+    top: 12px;
+    left: 23px;
+    font-size: 30.4px;
+    text-transform: capitalize;
+    font-weight: 600;
+    font-family: var(--font-inter);
+    color: var(--color-royalblue);
+    text-align: left;
+    display: inline-block;
+    width: 170px;
+    height: 34px;
+  }
+  .read-more3 {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    top: 857px;
+    left: 233px;
+    box-shadow: 0 3px 32px rgba(0, 0, 0, 0.46);
+    width: 207px;
+    height: 62px;
+  }
+  .macbook-pro-16-1,
+  .mediaarticle {
+    position: absolute;
+    top: 1012px;
+    left: 2px;
+    width: 1726px;
+    height: 981px;
+    overflow: hidden;
+  }
+  .macbook-pro-16-1 {
+    top: 113px;
+    left: 0;
+    background: linear-gradient(112.21deg, #2266c0, rgba(0, 74, 173, 0.6));
+    width: 1728px;
+    height: 1012px;
+    text-align: left;
+    font-size: var(--font-size-13xl);
+    color: var(--color-white);
+    font-family: var(--font-poppins);
+  }
+  .successful-alumni-working {
+    position: absolute;
+    top: 118px;
+    left: 199px;
+    text-transform: capitalize;
+    font-weight: 600;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 1362px;
+  }
+  .screenshot-21-1 {
+    position: absolute;
+    top: 352px;
+    left: 0;
+    width: 1726px;
+    height: 618px;
+    object-fit: cover;
+    mix-blend-mode: normal;
+  }
+  .companies {
+    position: absolute;
+    top: 1128px;
+    left: 1px;
+    background-color: #f8f9fa;
+    width: 1725px;
+    height: 975px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 53.3px;
+    color: var(--color-black);
+    font-family: var(--font-poppins);
+  }
+  .ace-your-skills,
+  .our-programs1 {
+    margin: 0;
+    position: absolute;
+    top: 70px;
+    left: 579px;
+    font-size: 82px;
+    font-weight: 400;
+    font-family: inherit;
+  }
+  .ace-your-skills {
+    top: 218px;
+    left: 237px;
+    font-size: 46px;
+    text-align: center;
+    display: inline-block;
+    width: 1255px;
+  }
+  .for-collage-students {
+    position: absolute;
+    top: 0;
+    left: 3px;
+    border-radius: var(--br-31xl) var(--br-31xl) 0 0;
+    width: 1399px;
+    height: 492px;
+    object-fit: cover;
+  }
+  .for-working-professionals {
+    position: absolute;
+    top: 492px;
+    left: 1px;
+    border-radius: 0 0 var(--br-31xl) var(--br-31xl);
+    background-color: var(--color-ghostwhite);
+    width: 1399px;
+    height: 456px;
+    opacity: 0.65;
+  }
+  .for-collage-students1,
+  .who-want-to {
+    margin: 0;
+    position: absolute;
+    font-weight: 400;
+    font-family: inherit;
+  }
+  .for-collage-students1 {
+    top: 537px;
+    left: 369px;
+    font-size: inherit;
+  }
+  .who-want-to {
+    top: 633px;
+    left: 151px;
+    font-size: var(--font-size-19xl);
+    text-align: center;
+    display: inline-block;
+    width: 1103px;
+  }
+  .view-program {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-royalblue);
+    box-sizing: border-box;
+    width: 386px;
+    height: 78px;
+  }
+  .view-program1 {
+    position: absolute;
+    top: 17px;
+    left: 43px;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    width: 237px;
+    height: 39px;
+  }
+  .read-more4 {
+    position: absolute;
+    top: 821px;
+    left: 506px;
+    width: 386px;
+    height: 78px;
+    font-size: var(--font-size-15xl-3);
+    color: var(--color-royalblue);
+    font-family: var(--font-inter);
+  }
+  .entypoarrow-long-right-icon {
+    position: absolute;
+    top: 844px;
+    left: 814px;
+    width: 46px;
+    height: 33px;
+    overflow: hidden;
+  }
+  .collage-frame {
+    position: absolute;
+    top: 446px;
+    left: 161px;
+    border-radius: var(--br-31xl);
+    box-shadow: 0 1px 10px rgba(0, 0, 0, 0.25);
+    border: 3px solid var(--color-royalblue);
+    box-sizing: border-box;
+    width: 1406px;
+    height: 954px;
+  }
+  .working-frame-child {
+    position: absolute;
+    top: 0;
+    left: 3px;
+    border-radius: var(--br-31xl) var(--br-31xl) 0 0;
+    width: 1399px;
+    height: 492px;
+    object-fit: cover;
+  }
+  .working-frame-item {
+    position: absolute;
+    top: 492px;
+    left: 1px;
+    border-radius: 0 0 var(--br-31xl) var(--br-31xl);
+    background-color: var(--color-ghostwhite);
+    width: 1399px;
+    height: 456px;
+    opacity: 0.65;
+  }
+  .for-working-professionals1,
+  .who-wish-to {
+    position: absolute;
+    top: 537px;
+    left: 369px;
+  }
+  .who-wish-to {
+    top: 633px;
+    left: 151px;
+    font-size: var(--font-size-19xl);
+    text-align: center;
+    display: inline-block;
+    width: 1103px;
+  }
+  .read-more-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-royalblue);
+    box-sizing: border-box;
+    width: 386px;
+    height: 78px;
+  }
+  .view-program2 {
+    position: absolute;
+    top: 17px;
+    left: 43px;
+    font-size: var(--font-size-15xl-3);
+    text-transform: capitalize;
+    font-weight: 500;
+    font-family: var(--font-inter);
+    color: var(--color-royalblue);
+    text-align: left;
+    display: inline-block;
+    width: 239px;
+    height: 39px;
+  }
+  .read-more5 {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    top: 821px;
+    left: 506px;
+    width: 386px;
+    height: 78px;
+  }
+  .entypoarrow-long-right-icon1 {
+    position: absolute;
+    top: 844px;
+    left: 814px;
+    width: 46px;
+    height: 33px;
+    overflow: hidden;
+  }
+  .working-frame {
+    position: absolute;
+    top: 1520px;
+    left: 165px;
+    border-radius: var(--br-31xl);
+    box-shadow: 0 1px 10px rgba(0, 0, 0, 0.25);
+    border: 3px solid var(--color-royalblue);
+    box-sizing: border-box;
+    width: 1406px;
+    height: 954px;
+  }
+  .top-button-icon1 {
+    position: absolute;
+    top: 1397px;
+    left: 1570px;
+    width: 109px;
+    height: 109px;
+    cursor: pointer;
+  }
+  .our-programs {
+    position: absolute;
+    top: 2101px;
+    left: 0;
+    background-color: var(--color-white);
+    width: 1724px;
+    height: 2579px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-45xl);
+    color: var(--color-black);
+    font-family: var(--font-poppins);
+  }
+  .bosscoder-end-to-end-solutions,
+  .to-give-you {
+    position: absolute;
+    top: 6208px;
+    left: 385px;
+    font-size: 59.6px;
+    text-transform: capitalize;
+  }
+  .to-give-you {
+    top: 6303.3px;
+    left: 424.2px;
+    font-size: 37.4px;
+    text-transform: lowercase;
+    white-space: pre-wrap;
+    text-align: center;
+    display: inline-block;
+    width: 888.5px;
+  }
+  .screenshot-24-1 {
+    position: absolute;
+    top: 6485px;
+    left: 1017px;
+    width: 604px;
+    height: 907px;
+    object-fit: cover;
+  }
+  .world-class-curriculam-design {
+    position: absolute;
+    top: 6655px;
+    left: 208px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 766px;
+  }
+  .daily-hand-picked,
+  .develop-industry-relevant-proj,
+  .live-classes-by,
+  .regular-1 {
+    position: absolute;
+    top: 6783px;
+    left: 208px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 775px;
+  }
+  .daily-hand-picked,
+  .develop-industry-relevant-proj,
+  .regular-1 {
+    top: 6911px;
+    width: 776px;
+  }
+  .develop-industry-relevant-proj,
+  .regular-1 {
+    top: 7039px;
+    width: 727px;
+  }
+  .develop-industry-relevant-proj {
+    top: 7167px;
+    width: 717px;
+  }
+  .placement-and-career1 {
+    position: absolute;
+    top: 98px;
+    left: 449px;
+    font-size: 54.6px;
+    text-align: left;
+  }
+  .h,
+  .placement-and-career1 {
+    text-transform: capitalize;
+  }
+  .elping,
+  .tudents-get-exposed {
+    text-transform: lowercase;
+  }
+  .tudents-get-exposed {
+    white-space: pre-wrap;
+  }
+  .helping-students-get-container {
+    position: absolute;
+    top: 179.5px;
+    left: 522.3px;
+    font-size: var(--font-size-15xl-3);
+    display: inline-block;
+    width: 699.8px;
+  }
+  .support-network {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-white);
+    box-shadow: 0 3px 35px rgba(0, 0, 0, 0.3);
+    border: 1px solid var(--color-royalblue);
+    box-sizing: border-box;
+    width: 339px;
+    height: 418px;
+  }
+  .career-portfolio-optimization {
+    position: absolute;
+    top: 124px;
+    left: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    width: 308px;
+  }
+  .screenshot-26-1 {
+    position: absolute;
+    top: 23px;
+    left: 106px;
+    width: 127px;
+    height: 99px;
+    object-fit: cover;
+  }
+  .blank-line1,
+  .referrals-and-career {
+    margin: 0;
+  }
+  .referrals-and-career-container {
+    position: absolute;
+    top: 174px;
+    left: 28px;
+    font-size: 21px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 282px;
+    height: 198px;
+  }
+  .career-portfolio,
+  .extensive-support-child {
+    position: absolute;
+    top: 345px;
+    left: 110px;
+    width: 339px;
+    height: 418px;
+  }
+  .extensive-support-child {
+    top: 0;
+    left: 0;
+    background-color: var(--color-white);
+    box-shadow: 0 3px 35px rgba(0, 0, 0, 0.3);
+    border: 1px solid var(--color-royalblue);
+    box-sizing: border-box;
+    width: 340px;
+  }
+  .extensive-support-by {
+    position: absolute;
+    top: 122px;
+    left: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    width: 309px;
+  }
+  .screenshot-25-1 {
+    position: absolute;
+    top: 31px;
+    left: 118px;
+    width: 103px;
+    height: 84px;
+    object-fit: cover;
+  }
+  .blank-line2,
+  .referrals-and-career1 {
+    margin: 0;
+  }
+  .referrals-and-career-container1 {
+    position: absolute;
+    top: 173px;
+    left: 32px;
+    font-size: var(--font-size-3xl);
+    text-transform: capitalize;
+    display: inline-block;
+    width: 282px;
+    height: 198px;
+  }
+  .extensive-support,
+  .placement-child {
+    position: absolute;
+    top: 345px;
+    left: 503px;
+    width: 340px;
+    height: 418px;
+  }
+  .placement-child {
+    top: 0;
+    left: 0;
+    background-color: var(--color-white);
+    box-shadow: 0 3px 35px rgba(0, 0, 0, 0.3);
+    border: 1px solid var(--color-royalblue);
+    box-sizing: border-box;
+  }
+  .placement-opportunities {
+    position: absolute;
+    top: 122px;
+    left: 9px;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    width: 337px;
+  }
+  .screenshot-28-1 {
+    position: absolute;
+    top: 23px;
+    left: 108px;
+    width: 123px;
+    height: 99px;
+    object-fit: cover;
+  }
+  .blank-line3,
+  .referrals-and-career2 {
+    margin: 0;
+  }
+  .referrals-and-career-container2 {
+    position: absolute;
+    top: 140px;
+    left: 36px;
+    font-size: var(--font-size-3xl);
+    text-transform: capitalize;
+    display: inline-block;
+    width: 282px;
+    height: 198px;
+  }
+  .mock-interviews-child,
+  .placement {
+    position: absolute;
+    top: 345px;
+    left: 896px;
+    width: 346px;
+    height: 418px;
+  }
+  .mock-interviews-child {
+    top: 0;
+    left: 0;
+    background-color: var(--color-white);
+    box-shadow: 0 3px 35px rgba(0, 0, 0, 0.3);
+    border: 1px solid var(--color-royalblue);
+    box-sizing: border-box;
+    width: 340px;
+  }
+  .mock-interviews1 {
+    position: absolute;
+    top: 122px;
+    left: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    width: 309px;
+  }
+  .screenshot-29-1 {
+    position: absolute;
+    top: 17px;
+    left: 112px;
+    width: 116px;
+    height: 112px;
+    object-fit: cover;
+  }
+  .blank-line4,
+  .referrals-and-career3 {
+    margin: 0;
+  }
+  .referrals-and-career-container3 {
+    position: absolute;
+    top: 140px;
+    left: 40px;
+    font-size: var(--font-size-3xl);
+    text-transform: capitalize;
+    display: inline-block;
+    width: 282px;
+    height: 198px;
+  }
+  .top-button-icon2 {
+    position: absolute;
+    top: 524px;
+    left: 278px;
+    width: 109px;
+    height: 109px;
+    cursor: pointer;
+  }
+  .know-more-child,
+  .mock-interviews {
+    position: absolute;
+    top: 345px;
+    left: 1289px;
+    width: 387px;
+    height: 633px;
+  }
+  .know-more-child {
+    top: 0;
+    left: 0;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-royalblue);
+    box-sizing: border-box;
+    width: 247px;
+    height: 78px;
+  }
+  .know-more1 {
+    position: absolute;
+    top: 18px;
+    left: 30px;
+    font-size: var(--font-size-15xl-3);
+    text-transform: capitalize;
+    font-weight: 600;
+    font-family: var(--font-inter);
+    color: var(--color-royalblue);
+    text-align: left;
+    display: inline-block;
+    width: 204px;
+    height: 39px;
+  }
+  .know-more {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    top: 895px;
+    left: 741px;
+    box-shadow: 0 3px 32px rgba(0, 0, 0, 0.25);
+    width: 247px;
+    height: 78px;
+  }
+  .placement-and-career {
+    position: absolute;
+    top: 7479px;
+    left: 0;
+    background-color: var(--color-ghostwhite);
+    width: 1728px;
+    height: 1014px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-6xl);
+    color: var(--color-black);
+    font-family: var(--font-poppins);
+  }
+  .top-button-icon3 {
+    position: absolute;
+    top: 7334px;
+    left: 1562px;
+    width: 109px;
+    height: 109px;
+    cursor: pointer;
+  }
+  .about,
+  .about-us,
+  .instagram {
+    position: absolute;
+    left: 1007px;
+    text-transform: capitalize;
+  }
+  .about {
+    top: 123px;
+    font-weight: 600;
+    color: var(--color-royalblue);
+  }
+  .about-us,
+  .instagram {
+    top: 213px;
+  }
+  .instagram {
+    left: 1397px;
+  }
+  .contact-us,
+  .facebook,
+  .linkdin,
+  .term-of-use {
+    position: absolute;
+    top: 286px;
+    left: 1007px;
+    text-transform: capitalize;
+  }
+  .facebook,
+  .linkdin,
+  .term-of-use {
+    left: 1397px;
+  }
+  .linkdin,
+  .term-of-use {
+    top: 359px;
+    left: 1007px;
+  }
+  .linkdin {
+    left: 1397px;
+  }
+  .privacy-policy,
+  .refund-policy,
+  .telegram,
+  .useful-links,
+  .youtube {
+    position: absolute;
+    top: 432px;
+    left: 1007px;
+    text-transform: capitalize;
+  }
+  .privacy-policy,
+  .telegram,
+  .useful-links,
+  .youtube {
+    left: 1397px;
+  }
+  .privacy-policy,
+  .useful-links,
+  .youtube {
+    top: 505px;
+    left: 1007px;
+  }
+  .useful-links,
+  .youtube {
+    left: 1397px;
+  }
+  .useful-links {
+    top: 123px;
+    font-weight: 600;
+    color: var(--color-royalblue);
+  }
+  .media-article-1-1-icon {
+    position: absolute;
+    top: 87px;
+    left: 88px;
+    width: 328px;
+    height: 170px;
+    object-fit: cover;
+    mix-blend-mode: normal;
+  }
+  .footer-bar,
+  .helping-ambitious-learners {
+    position: absolute;
+    font-size: var(--font-size-15xl-3);
+  }
+  .footer-bar {
+    top: 8493px;
+    left: 0;
+    background-color: var(--color-white);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+    width: 1728px;
+    height: 650px;
+    overflow: hidden;
+    text-align: left;
+    color: var(--color-black);
+    font-family: var(--font-poppins);
+  }
+  .helping-ambitious-learners {
+    top: 8741px;
+    left: 103px;
+    text-transform: capitalize;
+    font-family: var(--font-inter);
+    display: inline-block;
+    width: 673px;
+  }
+  .top-menu-bar1 {
+    position: absolute;
+    top: 5px;
+    left: 0;
+    background-color: var(--color-white);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+    width: 1728px;
+    height: 112px;
+  }
+  .programs {
+    position: absolute;
+    top: 40px;
+    left: 555px;
+    cursor: pointer;
+  }
+  .reviews {
+    left: 755px;
+    cursor: pointer;
+  }
+  .features,
+  .reviews,
+  .teaching {
+    position: absolute;
+    top: 40px;
+  }
+  .features {
+    left: 933px;
+    cursor: pointer;
+  }
+  .teaching {
+    left: 1118px;
+  }
+  .read-more-button {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-royalblue);
+    box-sizing: border-box;
+    width: 386px;
+    height: 78px;
+  }
+  .free-masterclasses {
+    position: absolute;
+    top: 17px;
+    left: 31px;
+    text-transform: capitalize;
+    font-weight: 600;
+    display: inline-block;
+    width: 325px;
+    height: 39px;
+  }
+  .read-more6 {
+    position: absolute;
+    top: 25px;
+    left: 1310px;
+    width: 386px;
+    height: 78px;
+    font-size: var(--font-size-15xl-3);
+    color: var(--color-royalblue);
+    font-family: var(--font-inter);
+  }
+  .media-article-1-1-icon1 {
+    position: absolute;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 58px;
+    max-height: 100%;
+    width: 258px;
+    object-fit: cover;
+    mix-blend-mode: normal;
+  }
+  .top-menu-bar {
+    position: absolute;
+    top: -4px;
+    left: 0;
+    width: 1728px;
+    height: 117px;
+    font-size: var(--font-size-14xl);
+  }
+  .bosscoders {
+    width: 100%;
+    height: 9143px;
+    position: relative;
+    background-color: var(--color-white);
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-11xl-6);
+    color: var(--color-black);
+    font-family: var(--font-poppins);
+  }
+  
